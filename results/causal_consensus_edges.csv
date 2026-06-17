@@ -1,0 +1,32 @@
+Predictor,Target,Granger_Support,Granger_p,DBN_Support,DBN_p,DBN_Coef,PCMCI_Support,PCMCI_p,PCMCI_MCI,Consensus_Score
+fecalcal,Lawsonibacter asaccharolyticus,1,1.2084478938129576e-10,1,0.0377083920356826,-0.0021877063901103,0,,,2
+Haemophilus parainfluenzae,fecalcal,1,9.332350514702905e-16,0,,,1,0.0002065454079684,0.1232093433004319,2
+fecalcal,Alistipes finegoldii,1,2.5848205952513304e-06,0,,,1,0.0015199543998373,-0.1095428836646764,2
+Alistipes finegoldii,fecalcal,1,1.523322773355393e-09,0,,,1,6.485650811529665e-06,-0.1443093515233443,2
+Roseburia faecis,fecalcal,1,1.0605184080520515e-10,0,,,1,0.0040419462126844,-0.1022109759065979,2
+fecalcal,Faecalibacterium prausnitzii,1,3.697716104785033e-05,1,0.0169151779025208,0.0021679261609432,0,,,2
+Faecalibacterium prausnitzii,fecalcal,1,2.8670415928778134e-07,0,,,1,6.527560439324244e-06,0.1440099035443094,2
+Faecalibacterium prausnitzii,Escherichia coli,0,,1,0.0006216075962303,-0.1270569796237564,1,3.326610699308901e-05,-0.1342517467805961,2
+fecalcal,Haemophilus parainfluenzae,1,3.131888444742022e-05,0,,,0,,,1
+fecalcal,Phascolarctobacterium faecium,1,0.0001383599506742,0,,,0,,,1
+Dialister invisus,fecalcal,1,9.546746370754953e-14,0,,,0,,,1
+Phascolarctobacterium faecium,fecalcal,1,4.416188880917251e-07,0,,,0,,,1
+fecalcal,Escherichia coli,1,1.207879363880372e-05,0,,,0,,,1
+Escherichia coli,fecalcal,1,4.5941601998237473e-17,0,,,0,,,1
+Lawsonibacter asaccharolyticus,fecalcal,1,1.3285685621338981e-17,0,,,0,,,1
+Akkermansia muciniphila,fecalcal,1,2.8670415928778134e-07,0,,,0,,,1
+fecalcal,Bifidobacterium longum,1,1.207879363880372e-05,0,,,0,,,1
+fecalcal,Dialister invisus,1,2.095779646868779e-06,0,,,0,,,1
+Bifidobacterium longum,fecalcal,1,9.007667390234389e-09,0,,,0,,,1
+fecalcal,Paraprevotella xylaniphila,1,0.0014062548260259,0,,,0,,,1
+Paraprevotella xylaniphila,fecalcal,1,3.2457615988112498e-06,0,,,0,,,1
+fecalcal,Roseburia faecis,1,1.0482847755992172e-05,0,,,0,,,1
+fecalcal,Akkermansia muciniphila,1,7.444206840520562e-05,0,,,0,,,1
+Haemophilus parainfluenzae,Escherichia coli,0,,1,0.0428533523809297,0.0638409502045329,0,,,1
+Dialister invisus,Phascolarctobacterium faecium,0,,1,0.000726167706759,-0.0467999210911347,0,,,1
+Phascolarctobacterium faecium,Dialister invisus,0,,1,0.0081082532842765,-0.0508514211029571,0,,,1
+Escherichia coli,Faecalibacterium prausnitzii,0,,1,0.0008164301148936,-0.0466132462979572,0,,,1
+Faecalibacterium prausnitzii,Paraprevotella xylaniphila,0,,0,,,1,0.0004570262748919,0.1177833390385294,1
+Paraprevotella xylaniphila,Faecalibacterium prausnitzii,0,,0,,,1,0.0303935154987531,0.0858467601206557,1
+Haemophilus parainfluenzae,Phascolarctobacterium faecium,0,,0,,,1,0.0352746969563627,-0.0842389487628722,1
+Alistipes finegoldii,Bifidobacterium longum,0,,0,,,1,0.0365960032443432,-0.0835733712505476,1
